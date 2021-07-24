@@ -1,0 +1,21 @@
+[2021-07-24 21:48:18] local.ERROR: symlink(): No such file or directory {"exception":"[object] (ErrorException(code: 0): symlink(): No such file or directory at /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:265)
+[stacktrace]
+#0 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'symlink(): No s...', '/Applications/M...', 265)
+#1 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(265): symlink('/Applications/M...', '/Applications/M...')
+#2 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Foundation/Console/StorageLinkCommand.php(40): Illuminate\\Filesystem\\Filesystem->link('/Applications/M...', '/Applications/M...')
+#3 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Console\\StorageLinkCommand->handle()
+#4 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Container/Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#5 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#6 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#7 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Container/Container.php(596): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#8 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Console/Command.php(134): Illuminate\\Container\\Container->call(Array)
+#9 /Applications/MAMP/htdocs/zigoair/vendor/symfony/console/Command/Command.php(299): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#10 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Console/Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#11 /Applications/MAMP/htdocs/zigoair/vendor/symfony/console/Application.php(978): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#12 /Applications/MAMP/htdocs/zigoair/vendor/symfony/console/Application.php(295): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Foundation\\Console\\StorageLinkCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#13 /Applications/MAMP/htdocs/zigoair/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#15 /Applications/MAMP/htdocs/zigoair/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#16 /Applications/MAMP/htdocs/zigoair/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#17 {main}
+"} 

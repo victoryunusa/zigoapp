@@ -1,5 +1,5 @@
 @php
-    $logo=asset(Storage::url('uploads/logo/'));
+    $logo=asset('uploads/logo/');
     $company_logo=Utility::getValByName('company_logo');
     $company_small_logo=Utility::getValByName('company_small_logo');
 @endphp

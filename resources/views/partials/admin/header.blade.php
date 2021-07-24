@@ -1,6 +1,6 @@
 @php
     $users=\Auth::user();
-    $profile=asset(Storage::url('uploads/avatar/'));
+    $profile=asset('uploads/avatar/');
     $currantLang = $users->currentLanguage();
     $languages=Utility::languages();
 @endphp
