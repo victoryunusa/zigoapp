@@ -8,7 +8,7 @@
     <!-- Sidenav header -->
     <div class="sidenav-header d-flex align-items-center">
         <a class="navbar-brand" href="{{ route('dashboard') }}">
-            <img src="{{$logo.'/'.(isset($company_logo) && !empty($company_logo)?$company_logo:'logo.png')}}" class="navbar-brand-img"/>
+            <img src="{{$logo.'/'.(isset($company_logo) && !empty($company_logo)?$company_logo:'white.svg')}}" class="navbar-brand-img"/>
         </a>
         <div class="ml-auto">
             <div class="sidenav-toggler sidenav-toggler-dark d-md-none" data-action="sidenav-unpin" data-target="#sidenav-main">
