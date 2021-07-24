@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @php
-    $profile=asset(uploads/avatar/');
+    $profile=asset('uploads/avatar/');
 @endphp
 @section('page-title')
     {{__('Manage Users')}}
