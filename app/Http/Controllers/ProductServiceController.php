@@ -146,7 +146,6 @@ class ProductServiceController extends Controller
                     'sku' => 'required',
                     'sale_price' => 'required|numeric',
                     'purchase_price' => 'required|numeric',
-                    'tax_id' => 'required',
                     'category_id' => 'required',
                     'unit_id' => 'required',
                     'type' => 'required',
@@ -158,7 +157,7 @@ class ProductServiceController extends Controller
                 {
                     $messages = $validator->getMessageBag();
 
-                    return redirect()->route('expenses.index')->with('error', $messages->first());
+                    return redirect()->route('productservice.index')->with('error', $messages->first());
                 }
 
                 $productService->name           = $request->name;

@@ -366,6 +366,7 @@ Route::group(
 
 
 Route::get('productservice/index', 'ProductServiceController@index')->name('productservice.index');
+Route::post('productservice/update', 'ProductServiceController@update')->name('productservice.update');
 Route::resource('productservice', 'ProductServiceController')->middleware(
     [
         'auth',
