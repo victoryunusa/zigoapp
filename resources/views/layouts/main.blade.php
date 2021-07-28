@@ -5,8 +5,8 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="description" content="BillAngel helps small businesses and freelancers manage their revenues, expenditures and finances. BillAngel combines the power of accounting with the ease of using a simple Web application to enable you to organize your finances like never before!">
       <meta name="keywords" content="">
-      <meta name="author" content="Landeng - HTML Landing Page Templates">
-      <title>Landeng - HTML Landing Page Templates</title>
+      <meta name="author" content="Bill Angel">
+      <title>Bill Angel - Online Invoicing System with Attractive Features</title>
       <link rel="shortcut icon" href="img/fav-logo.svg" type="image/x-icon" />
       <link href="{{ asset('main/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
       <link href="{{ asset('main/vendor/icofont/icofont.min.css') }}" rel="stylesheet">
