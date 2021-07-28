@@ -269,8 +269,10 @@ Route::prefix('vender')->as('vender.')->group(
     }
 );
 
+Route::get('/', 'WebsiteController@index');
 
-Route::get('/', 'DashboardController@index')->name('dashboard')->middleware(['XSS','revalidate',]);
+
+Route::get('/dashboard', 'DashboardController@index')->name('dashboard')->middleware(['XSS','revalidate',]);
 
 Route::get('/dashboard', 'DashboardController@index')->name('dashboard')->middleware(
     [
