@@ -9,7 +9,7 @@
 @section('content')
     <div class="login-contain">
         <div class="login-inner-contain">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="{{ url('/') }}">
                 <img src="{{$logo.'/'.(isset($company_logo) && !empty($company_logo)?$company_logo:'logo.png')}}" class="navbar-brand-img big-logo" alt="logo">
             </a>
             <div class="login-form">

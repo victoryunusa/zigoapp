@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #101028;
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #f6c0bf;
+      }
+
+      .cls-5 {
+        fill: #3a1b45;
+        opacity: 0.89;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="1" y="1.406" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="1" y="1.40625" width="85" height="85" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iODUiIGhlaWdodD0iODUiIHZpZXdCb3g9IjAgMCA4NSA4NSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSI4NSIgeDI9Ijg1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLTAuMTA1IiBzdG9wLWNvbG9yPSIjMjc2MWVjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4xMDUiIHN0b3AtY29sb3I9IiM1YTU2ZTkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9Ijg1IiBoZWlnaHQ9Ijg1Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="14" y="20.719" width="13.813" height="46.687" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="14" y="20.7188" width="13.813" height="46.687" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTMuODEzIiBoZWlnaHQ9IjQ2LjY4NyIgdmlld0JveD0iMCAwIDEzLjgxMyA0Ni42ODciPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB5MT0iMzAuMjUiIHgyPSIxMy44MTMiIHkyPSIxNi40MzciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSItMC4xMDUiIHN0b3AtY29sb3I9IiNmNmMwYmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxLjEwNSIgc3RvcC1jb2xvcj0iI2Y2YzllNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTMuODEzIiBoZWlnaHQ9IjQ2LjY4NyIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" x="1" y="1.406" width="85" height="85" rx="20" ry="20"/>
+  <path id="landeng." class="cls-2" d="M124,24.992h-7.9V62.64H124V24.992Zm9.646,36.062a9.044,9.044,0,0,0,6.526,2.314q5.043,0,7.28-3.64a12.6,12.6,0,0,0,.26,2.912h7.124a21.041,21.041,0,0,1-.312-4V46a9.769,9.769,0,0,0-2.782-7.176q-2.783-2.808-8.658-2.808-5.2,0-8.138,2.678a8.914,8.914,0,0,0-3.2,5.9l6.864,1.4a3.959,3.959,0,0,1,1.274-2.678,5.084,5.084,0,0,1,5.928-.312,2.465,2.465,0,0,1,1.014,2q0,1.509-1.872,1.768l-6.084.936a10.058,10.058,0,0,0-5.512,2.522,6.9,6.9,0,0,0-2.132,5.278A7.4,7.4,0,0,0,133.649,61.054Zm6.136-4.186A2.6,2.6,0,0,1,139.031,55q0-2.391,2.912-2.86l4.888-.78V52.5a5.044,5.044,0,0,1-1.352,3.952,4.914,4.914,0,0,1-3.38,1.2A3.085,3.085,0,0,1,139.785,56.868Zm32.552-12.3a4,4,0,0,1,3.094-1.274,3.953,3.953,0,0,1,3.146,1.222,4.772,4.772,0,0,1,1.066,3.25V62.64h7.9V46.416a11.229,11.229,0,0,0-2.392-7.41q-2.393-2.886-7.02-2.886a9.775,9.775,0,0,0-4.186.962,6.611,6.611,0,0,0-3.042,2.678V36.8h-7.644V62.64h7.9V47.82A4.619,4.619,0,0,1,172.337,44.57ZM213.91,24.992V38.824q-1.665-2.652-6.968-2.652a11.718,11.718,0,0,0-9,3.822,13.65,13.65,0,0,0-3.536,9.646,13.563,13.563,0,0,0,3.64,9.75,12.105,12.105,0,0,0,9.152,3.822,9.694,9.694,0,0,0,4.134-.858,6.723,6.723,0,0,0,2.782-2.21,15.122,15.122,0,0,0,.208,2.5h7.592q-0.209-2.288-.208-4.628V24.992h-7.8Zm-5.72,18.3a5.67,5.67,0,0,1,4.134,1.664,6.347,6.347,0,0,1,1.69,4.732,6.435,6.435,0,0,1-1.69,4.758,5.9,5.9,0,0,1-8.268,0,6.431,6.431,0,0,1-1.69-4.758,6.343,6.343,0,0,1,1.69-4.732A5.667,5.667,0,0,1,208.19,43.3ZM238.4,43.608a4.921,4.921,0,0,1,3.64-1.352,5.128,5.128,0,0,1,3.822,1.3,4.646,4.646,0,0,1,1.378,3.068H236.893A4.85,4.85,0,0,1,238.4,43.608Zm4.213,13.1a6.135,6.135,0,0,1-4.057-1.43,4.774,4.774,0,0,1-1.819-3.562h17.991a10.837,10.837,0,0,0,.156-2.444q0-6.24-3.458-9.75t-9.489-3.51a12.442,12.442,0,0,0-9.075,3.8,13.25,13.25,0,0,0-3.822,9.828A13.13,13.13,0,0,0,242.51,63.42a12.737,12.737,0,0,0,7.8-2.314,10.738,10.738,0,0,0,4.108-5.9l-6.6-1.872q-1.2,3.381-5.2,3.38h0ZM271.135,44.57a4,4,0,0,1,3.094-1.274,3.953,3.953,0,0,1,3.146,1.222,4.772,4.772,0,0,1,1.066,3.25V62.64h7.9V46.416a11.229,11.229,0,0,0-2.392-7.41q-2.392-2.886-7.02-2.886a9.775,9.775,0,0,0-4.186.962,6.611,6.611,0,0,0-3.042,2.678V36.8h-7.644V62.64h7.9V47.82A4.619,4.619,0,0,1,271.135,44.57Zm26.207,26a13.925,13.925,0,0,0,8.814,2.73q6.864,0,10.348-3.926a14.451,14.451,0,0,0,3.484-9.958V36.8h-7.54v2.756a5.935,5.935,0,0,0-2.5-2.236,9.771,9.771,0,0,0-4.68-.988,11.169,11.169,0,0,0-8.606,3.718,12.743,12.743,0,0,0-3.406,8.918,12.5,12.5,0,0,0,3.432,9,11.382,11.382,0,0,0,8.58,3.588q4.992,0,6.916-2.912v1.2q0,6.6-6.4,6.6a5.652,5.652,0,0,1-3.666-1.2,5.336,5.336,0,0,1-1.9-3.12L293.26,64.1A10.036,10.036,0,0,0,297.342,70.57Zm3.822-21.606a5.511,5.511,0,0,1,5.564-5.72,5.359,5.359,0,0,1,3.9,1.586,5.547,5.547,0,0,1,1.612,4.134,5.678,5.678,0,0,1-1.534,4.16,5.335,5.335,0,0,1-3.978,1.56,5.42,5.42,0,0,1-4-1.56,5.622,5.622,0,0,1-1.56-4.16h0Zm32.085,14.144a5.109,5.109,0,0,0,3.77-1.612,5.177,5.177,0,0,0,1.586-3.744,5.066,5.066,0,0,0-1.586-3.744,5.193,5.193,0,0,0-3.77-1.56,5.326,5.326,0,0,0-5.3,5.3,5.192,5.192,0,0,0,1.56,3.77A5.063,5.063,0,0,0,333.249,63.108Z"/>
+  <ellipse class="cls-3" cx="50.172" cy="44.813" rx="23.828" ry="23.406"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-4" cx="333" cy="57.406" r="6"/>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-5" x="14" y="20.719" width="13.813" height="46.687" rx="6.906" ry="6.906"/>
+</svg>
